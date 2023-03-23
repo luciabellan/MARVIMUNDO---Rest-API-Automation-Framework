@@ -15,7 +15,7 @@ Rest API Automation Framework on www.marvimundo.com website
 - Define Enum class with constants to centralize all resources details
 - Implement Data Driven Mechanism to drive data dynamicalyy from Features files
 - Implement Parameterization to run tests with multiple data sets using Cucumber         Example Keyword
-- Add More TEsts and implement Tagging Mechanism to run selected TEsts from Test Runner   file
+- Add More Tests and implement Tagging Mechanism to run selected Tests from Test Runner   file
 - Execute Complete Framework from Maven Commands
 - Implement Maven driven global values into Test for dynamic execution
 - Generate Reports for Test Execution results
